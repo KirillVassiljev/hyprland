@@ -1,0 +1,8 @@
+run-always_parse_args=true
+term=kitty
+allow_images=true
+hide_scroll=true
+insensitive=true
+single_click=true
+height=30%
+width=40%
